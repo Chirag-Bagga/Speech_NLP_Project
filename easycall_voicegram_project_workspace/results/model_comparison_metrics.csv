@@ -1,0 +1,3 @@
+model,accuracy,word_recognition_accuracy,macro_precision,macro_recall,macro_f1
+Baseline CNN,1.0,1.0,1.0,1.0,1.0
+Proposed Residual-Attention CNN,1.0,1.0,1.0,1.0,1.0
